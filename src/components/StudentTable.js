@@ -14,7 +14,7 @@ import PropTypes from 'prop-types'
 import React from 'react'
 
 const StudentTable = ({
-    participants,
+    participants = [],
     setUpdateParticipantDetails,
     deleteMutation,
     sharingMutation,
@@ -37,7 +37,7 @@ const StudentTable = ({
                         <TableCell>{participant.value.name}</TableCell>
                         <TableCell>{participant.value.country}</TableCell>
                         <TableCell>
-                            {participant.value.daysAttended.join(', ')}
+                            {participant?.value?.daysAttended ?? participant.value.daysAttended.join(', ')}
                         </TableCell>
                         <TableCell>
                             <ButtonStrip>

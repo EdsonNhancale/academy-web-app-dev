@@ -5,17 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2024-04-16T22:58:48.740Z\n"
-"PO-Revision-Date: 2024-04-16T22:58:48.740Z\n"
-
-msgid "New name"
-msgstr "New name"
-
-msgid "Add Visualization"
-msgstr "Add Visualization"
-
-msgid "Update participant"
-msgstr "Update participant"
+"POT-Creation-Date: 2024-04-18T14:24:31.805Z\n"
+"PO-Revision-Date: 2024-04-18T14:24:31.805Z\n"
 
 msgid "Add participant"
 msgstr "Add participant"
@@ -38,8 +29,8 @@ msgstr "Add"
 msgid "Search for participants"
 msgstr "Search for participants"
 
-msgid "Favorite foods"
-msgstr "Favorite foods"
+msgid "Roster"
+msgstr "Roster"
 
 msgid "Actions"
 msgstr "Actions"
